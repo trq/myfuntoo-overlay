@@ -1,0 +1,8 @@
+# ChangeLog for dev-vcs/gitflow
+# Copyright 1999-2011 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*git-flow-completion-0.4.1.0-r1 (23 Jun 2011)
+
+  23 Jun 2011; Tony R Quilkey thorpe@thorpesystems.com git-flow-completion-0.4.1.0-r1.ebuild:
+  Moved git-flow-completion from build dependency to runtime dependency.
